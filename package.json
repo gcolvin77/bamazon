@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gcolvin77/bamazon#readme",
   "dependencies": {
+    "cli-table": "^0.3.1",
     "inquirer": "^6.0.0",
     "mysql": "^2.15.0",
     "table": "^4.0.3"
